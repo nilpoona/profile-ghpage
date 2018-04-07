@@ -51,3 +51,9 @@
 - jQuery,React.js,reduxを用いたWebフロントエンド実装の実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
+
+## 業務外の活動
+### npm
+https://www.npmjs.com/~gozu
+
+### 登壇資料
