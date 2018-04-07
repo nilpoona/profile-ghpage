@@ -12,7 +12,7 @@
 - 開発チームのマネジメント 1年
  
 #### その他のソフトウェア
-- CLIツール(Go/Node.js)
+- CLIツール(Go/Node.js/Python)
 - GUIアプリ(Python/Electron)
 
 ### ディレクター
@@ -27,15 +27,27 @@
 
 ## プログラミングスキル
 ### Go
-- version1.6〜1.9でのAPIサーバーやCLIツールの実装の実務経験
+- version1.6〜1.9でのAPIサーバー、CLIツール実装の実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
+- 実務で利用したフレームワークはecho,martini,go-chi,twirp
 - gRPCを用いたAPI実装
 
 ### Node.js
-
+- version4〜6系でのAPIサーバー、CLIツール実装の実務経験
+- フレームワーク選定やアプリケーションアーキテクチャの設計
+- 実務で利用したフレームワークはexpress,node-restify
+- lambda functionで動作するAPI実装の実務経験
 
 ### Python
+- version2.5〜2.7系でのAPIサーバー、CLIツール実装の実務経験
+- 実務で利用したフレームワークはDjango1.2。趣味でDjango1.7、Falconの利用経験あり
+- wxPythonを利用したGUIアプリケーションの実装の実務経験
 
 ### PHP
+- version5.3でのWebアプリケーション実装の実務経験
+- 実務で利用したフレームワークはCakePHP1.3、Zend Framework 2.0
 
 ### javascript
+- jQuery,React.js,reduxを用いたWebフロントエンド実装の実務経験
+- フレームワーク選定やアプリケーションアーキテクチャの設計
+- SPA実装の実務経験
