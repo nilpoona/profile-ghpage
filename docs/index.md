@@ -39,7 +39,7 @@
 - lambda functionで動作するAPI実装の実務経験
 
 ### Python
-- version2.5〜2.7系でのAPIサーバー、CLIツール実装の実務経験
+- version2.5〜2.7系でのWebアプリケーション、CLIツール実装の実務経験
 - 実務で利用したフレームワークはDjango1.2。趣味でDjango1.7、Falconの利用経験あり
 - wxPythonを利用したGUIアプリケーションの実装の実務経験
 
@@ -53,7 +53,122 @@
 - SPA実装の実務経験
 
 ## 業務外の活動
+### github
+https://github.com/nilpoona
+
 ### npm
 https://www.npmjs.com/~gozu
 
 ### 登壇資料
+http://www.slideshare.net/leverages_event/ss-42559237
+http://www.slideshare.net/yutakahorikawa7/ss-60534281
+
+
+##　職務経歴 
+
+### 現職(2017/10〜)
+
+- ライブ配信アプリ
+  - APIサーバーの実装
+  - 管理ツールの実装
+  - 開発環境の整備
+  - デプロイフローの構築とメンテナンス
+  - Go/martini/twirp/Google App Engine/Datastore/GCS/CloudSQL/Docker/Google Compute Engine/Wowza/nginx
+
+- 仮想通貨取引所 
+  - 管理ツールの実装 
+  - Go/go-chi/Google App Engine/Datastore/CloudSQL/Docker
+
+### 株式会社 xmm(2016/9〜2017/10)
+
+- 社内向け管理システムのリプレイス
+  - APIサーバーの実装
+  - 管理画面の実装
+  - 開発環境の整備
+  - デプロイフローの構築とメンテナンス
+  - 技術選定とアーキテクチャー設計
+  - エラートラッキングシステムの導入
+  - Node.js/express/lambda function/DynamoDB/API Gateway/CloudFront/WAF/Cognite/CloudFormation/React.js/redux/flowtype/Docker
+
+- Push通知基盤
+  - 管理画面の実装
+  - 開発環境の整備
+  - APIサーバーの実装
+  - JobQueueサーバーの導入
+  - デプロイフローの構築とメンテナンス
+  - Go/echo/Elastic Beanstalk/Docker/React.js/redux/digdag/Amazon Aurora/fluentd/firehose kinesis/athena/redis/SQS
+
+- 採用
+  - 書類選考
+
+- 異動 
+  - 2017/10現職へ転籍
+
+### 株式会社 L(2014/4〜2016/8)
+
+- クラウドソーシングプラットフォーム
+  - 仕事依頼フォームの刷新
+  - 全文検索エンジンの導入
+  - B向けサービスの開発
+  - チャット機能の刷新
+  - ログ基盤の開発
+  - 社内向けツールの開発
+  - チームリーダーとして3〜5人のマネジメント
+  - PHP/CakePHP/Node.js/express/restify/React.js/jQuery/redux/EC2/RDS(MySQL)/Nginx/fluentd/lambda function/redis/memcached/SQS/CloudSearch/apache
+
+- 採用
+  - エンジニア中途採用１次面接
+
+### 株式会社 C(2013/2〜2014/3)
+
+- スマホ向けゲームアプリ
+  - APIサーバーの実装
+  - ゲーム内UIの実装(WebView/Unity)
+  - 管理ツールの実装
+  - PHP/Zend Framework/EC2/RDS(MySQL)/C#/javascript/
+
+### 株式会社 G(2011/1〜2013/1)
+
+- GREEプラットフォーム向け農園ゲーム
+  - APIとUIの実装
+  - フィーチャフォン用Flashの動的変換部分を実装
+  
+- 共通基盤API
+  - ユーザー流入用APIの実装
+
+- GREEプラットフォーム向けカードバトルゲーム
+  - ゲーム内の実装全般(ガチャ、イベント、ギルド)
+  - 管理用ツールの実装
+  - ユニットテストの導入 
+  - チームリーダーとして6〜8人のマネジメント 
+  - Python/Django/EC2/RDS(MySQL)/TokyoTyrant/redis/javascript/
+  
+- 採用
+  - エンジニア中途採用１次面接
+  
+### 株式会社 D(2006/1〜2010/12)
+
+- 公式デコメサイト 
+  - HTMLコーディング、ロゴ制作
+  
+- 公式着うた/着うたフルサイト
+  - アーティストのページ制作・ディレクション
+  - 社内向けの企画書作成
+
+- 携帯小説投稿サイト 
+  - サーバーサイドの実装 
+  - ディレクション
+  - WebUIの実装 
+
+- モバイルSEO 
+  - SEO施作の立案・実行・検証・ディレクション 
+
+- 社内ツール開発 
+  - Flash待受生成ツール実装
+  - ページジェネレーター実装
+  - HTML3キャリア対応ツール実装  
+  - クローラーアクセスログ可視化ツール実装 
+  - ページ容量アラートツール実装
+  - サイト編成ツール実装
+  - 画像リサイズツール実装
+  - PHP/Python/apache/MySQL/SQLite
