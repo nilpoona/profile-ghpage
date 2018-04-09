@@ -97,6 +97,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - デプロイフローの構築とメンテナンス
   - 技術選定とアーキテクチャー設計
   - エラートラッキングシステムの導入
+  - React.jsでSSR
   - Node.js/express/lambda function/DynamoDB/API Gateway/CloudFront/WAF/Cognite/CloudFormation/React.js/redux/flowtype/Docker
 
 - Push通知基盤
@@ -183,7 +184,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - 画像リサイズツール実装
   - PHP/Python/apache/MySQL/SQLite
 
-### 自己PR
+## 自己PR
 
 Webフロントエンド、WebAPI、開発環境の整備、デプロイフロー構築、インフラ構築自動化等
 アプリケーション開発からSRE的な仕事まで幅広く行える。
