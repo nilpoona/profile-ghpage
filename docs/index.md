@@ -71,7 +71,7 @@ http://www.slideshare.net/leverages_event/ss-42559237
 http://www.slideshare.net/yutakahorikawa7/ss-60534281
 
 
-##　職務経歴 
+## 職務経歴 
 
 ### ピックアップ株式会社(2017/10〜)
 
