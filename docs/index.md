@@ -73,7 +73,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
 
 ##　職務経歴 
 
-### 現職(2017/10〜)
+### ピックアップ株式会社(2017/10〜)
 
 - ライブ配信アプリ
   - APIサーバーの実装
@@ -88,7 +88,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - SearchAPIの導入 
   - Go/go-chi/Google App Engine/Datastore/CloudSQL/Docker/vue.js/element
 
-### 株式会社 xmm(2016/9〜2017/10)
+### 株式会社 DMM(2016/9〜2017/10)
 
 - 社内向け管理システムのリプレイス
   - APIサーバーの実装
@@ -113,7 +113,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
 - 異動 
   - 2017/10現職へ転籍
 
-### 株式会社 L(2014/4〜2016/8)
+### ランサーズ株式会社(2014/4〜2016/8)
 
 - クラウドソーシングプラットフォーム
   - 仕事依頼フォームの刷新
@@ -129,7 +129,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
 - 採用
   - エンジニア中途採用１次面接
 
-### 株式会社 C(2013/2〜2014/3)
+### 株式会社コロプラ (2013/2〜2014/3)
 
 - スマホ向けゲームアプリ
   - APIサーバーの実装
@@ -137,7 +137,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - 管理ツールの実装
   - PHP/Zend Framework/EC2/RDS(MySQL)/C#/javascript/
 
-### 株式会社 G(2011/1〜2013/1)
+### 株式会社 gumi(2011/1〜2013/1)
 
 - GREEプラットフォーム向け農園ゲーム
   - APIとUIの実装
@@ -156,7 +156,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
 - 採用
   - エンジニア中途採用１次面接
   
-### 株式会社 D(2006/1〜2010/12)
+### 株式会社 ドワンゴ(2006/1〜2010/12)
 
 - 公式デコメサイト 
   - HTMLコーディング、ロゴ制作
