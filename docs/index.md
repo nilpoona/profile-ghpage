@@ -1,5 +1,5 @@
 ## 個人データ
-- 氏名: xxxx
+- 氏名:堀川 豊 
 
 ## 職務経歴(概要)
 ### ソフトウェアエンジニア
@@ -52,6 +52,10 @@
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
 
+### AWS
+- CloudFormationを利用したインフラ構築の自動化実務経験
+- サーバーレスアーキテクチャの実務経験 
+
 ## 業務外の活動
 ### github
 https://github.com/nilpoona
@@ -80,7 +84,9 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
 
 - 仮想通貨取引所 
   - 管理ツールの実装 
-  - Go/go-chi/Google App Engine/Datastore/CloudSQL/Docker
+  - 管理ツールで使用するUIライブラリの選定
+  - SearchAPIの導入 
+  - Go/go-chi/Google App Engine/Datastore/CloudSQL/Docker/vue.js/element
 
 ### 株式会社 xmm(2016/9〜2017/10)
 
@@ -99,7 +105,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - APIサーバーの実装
   - JobQueueサーバーの導入
   - デプロイフローの構築とメンテナンス
-  - Go/echo/Elastic Beanstalk/Docker/React.js/redux/digdag/Amazon Aurora/fluentd/firehose kinesis/athena/redis/SQS
+  - Go/echo/Elastic Beanstalk/Docker/React.js/redux/digdag/Amazon Aurora/fluentd/firehose kinesis/athena/Redis/SQS
 
 - 採用
   - 書類選考
@@ -117,7 +123,8 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - ログ基盤の開発
   - 社内向けツールの開発
   - チームリーダーとして3〜5人のマネジメント
-  - PHP/CakePHP/Node.js/express/restify/React.js/jQuery/redux/EC2/RDS(MySQL)/Nginx/fluentd/lambda function/redis/memcached/SQS/CloudSearch/apache
+  - フロントエンドの技術刷新
+  - PHP/CakePHP/Node.js/express/restify/React.js/jQuery/redux/EC2/RDS(MySQL)/Nginx/fluentd/lambda function/Redis/memcached/SQS/CloudSearch/apache
 
 - 採用
   - エンジニア中途採用１次面接
@@ -144,7 +151,7 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - 管理用ツールの実装
   - ユニットテストの導入 
   - チームリーダーとして6〜8人のマネジメント 
-  - Python/Django/EC2/RDS(MySQL)/TokyoTyrant/redis/javascript/
+  - Python/Django/EC2/RDS(MySQL)/TokyoTyrant/Redis/javascript/
   
 - 採用
   - エンジニア中途採用１次面接
@@ -175,3 +182,11 @@ http://www.slideshare.net/yutakahorikawa7/ss-60534281
   - サイト編成ツール実装
   - 画像リサイズツール実装
   - PHP/Python/apache/MySQL/SQLite
+
+### 自己PR
+
+Webフロントエンド、WebAPI、開発環境の整備、デプロイフロー構築、インフラ構築自動化等
+アプリケーション開発からSRE的な仕事まで幅広く行える。
+直近ではGoでの開発が多く、今はGoが一番書ける言語。
+
+技術選定やアーキテクチャ設計から開発に携わる機会も多数あり。
