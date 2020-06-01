@@ -8,7 +8,7 @@
 - 開発チームのマネジメント 1年
 
 #### Web・スマホサービス開発
-- 開発業務 4年(Go1.6〜1.9:1年6ヶ月/Node.js4〜6系:3年/PHP5.3:2年/javascript:4年)
+- 開発業務 6年(Go1.6〜1.14:3年6ヶ月/Node.js4〜6系:3年/PHP5.3:2年/javascript:4年)
 - 開発チームのマネジメント 1年
  
 #### その他のソフトウェア
@@ -26,37 +26,47 @@
 
 
 ## プログラミングスキル
-### Go
-- version1.6〜1.9でのAPIサーバー、CLIツール実装の実務経験
+### バックエンド
+#### Go
+- version1.6〜1.14でのAPIサーバー、CLIツール実装の実務経験
+- Visa,QUICPay+の決済システム開発
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはecho,martini,go-chi,twirp
-- gRPCを用いたAPI実装
+- Microservices architectureの開発
+  - Orchestration、Choreographyどちらの経験もあり
+  - Event Sourcing
+- Clean Architectureを用いたアプリケーションの実装
 
-### Node.js
+#### Node.js
 - version4〜6系でのAPIサーバー、CLIツール実装の実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはexpress,node-restify
 - lambda functionで動作するAPI実装の実務経験
 
-### Python
+#### Python
 - version2.5〜2.7系でのWebアプリケーション、CLIツール実装の実務経験
 - 実務で利用したフレームワークはDjango1.2。趣味でDjango1.7、Falconの利用経験あり
 - wxPythonを利用したGUIアプリケーションの実装の実務経験
 
-### PHP
+#### PHP
 - version5.3でのWebアプリケーション実装の実務経験
 - 実務で利用したフレームワークはCakePHP1.3、Zend Framework 2.0
 
-### javascript
-- jQuery,React.js,reduxを用いたWebフロントエンド実装の実務経験
+### Webフロントエンド
+
+#### Javascript
+- jQuery,React.js,redux, Vue.jsを用いたWebフロントエンド実装の実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
+
+#### Elm
+- Elmを用いたWebフロントエンド実装の実務経験
 
 ### AWS
 - CloudFormationを利用したインフラ構築の自動化実務経験
 - サーバーレスアーキテクチャの実務経験 
 
-## 業務外の活動
+## アカウント
 ### github
 https://github.com/nilpoona
 
@@ -66,14 +76,25 @@ https://gist.github.com/nilpoona
 ### npm
 https://www.npmjs.com/~gozu
 
+## 発表資料/執筆
 ### 登壇資料
-http://www.slideshare.net/leverages_event/ss-42559237
-http://www.slideshare.net/yutakahorikawa7/ss-60534281
+- http://www.slideshare.net/leverages_event/ss-42559237
+- http://www.slideshare.net/yutakahorikawa7/ss-60534281
 
+### 執筆
+- [WEB+DB PRESS Vol.114](https://gihyo.jp/magazine/wdpress/archive/2020/vol114)
+  - カード発行，決済，個人間送金の舞台裏 Kyash開発ノウハウ大公開
 
 ## 職務経歴 
+### 株式会社Kyash(2018/7〜)
+- Visa,QUICPay+の決済システム開発
+- Microservices architectureの各種サービス実装
+- 新サービスの立ち上げ
+- Microservices基盤の実装
+- Kyashポイント(QUICPay+)の実装
+- テックリード
 
-### ピックアップ株式会社(2017/10〜)
+### ピックアップ株式会社(2017/10〜2018/6)
 
 - ライブ配信アプリ
   - APIサーバーの実装
