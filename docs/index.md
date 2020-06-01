@@ -29,7 +29,7 @@
 ### バックエンド
 #### Go
 - version1.6〜1.14でのAPIサーバー、CLIツール実装の実務経験
-- Visa,QUICPay+の決済システム開発
+- TCPサーバー&Clientの実装実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはecho,martini,go-chi,twirp
 - Microservices Architectureの開発
@@ -44,6 +44,7 @@
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはexpress,node-restify
 - lambda functionで動作するAPI実装の実務経験
+- socket.ioを用いたwebsocketサーバーの実装
 
 #### Python
 - version2.5〜2.7系でのWebアプリケーション、CLIツール実装の実務経験
@@ -58,6 +59,8 @@
 
 #### Javascript
 - jQuery,React.js,redux, Vue.jsを用いたWebフロントエンド実装の実務経験
+- Atomig Designに基づいたコンポーネント設計
+- jest,mochaでのユニットテスト
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
 
