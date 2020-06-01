@@ -35,6 +35,7 @@
 - Microservices architectureの開発
   - Orchestration、Choreographyどちらの経験もあり
   - Event Sourcing
+  - CQRS
 - Clean Architectureを用いたアプリケーションの実装
 
 #### Node.js
