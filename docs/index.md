@@ -63,6 +63,7 @@
 - jest,mochaでのユニットテスト
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
+- next.js&wasmを使った社内ツールの実装経験
 
 #### Elm
 - Elmを用いたWebフロントエンド実装の実務経験
@@ -95,9 +96,12 @@ https://www.npmjs.com/~gozu
 - Visa,QUICPay+の決済システム開発
 - Microservices architectureの各種サービス実装
 - 新サービスの立ち上げ
+- DDD & CleanArchitectureを用いたシステム設計＆実装
 - Microservices基盤の実装
 - Kyashポイント(QUICPay+)の実装
-- テックリード
+- 決済システムチームのテックリード
+ - システムの設計・テスト方針の作成
+ - 輪読会開催などチーム全体のスキルアップ
 
 ### ピックアップ株式会社(2017/10〜2018/6)
 
