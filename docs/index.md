@@ -4,11 +4,11 @@
 ## 職務経歴(概要)
 ### ソフトウェアエンジニア
 #### ソーシャルゲーム開発
-- 開発業務 3年(Python2.5〜2.7系/PHP5.3/javascript/C#)
+- 開発業務 3年(Python/PHP/javascript/C#)
 - 開発チームのマネジメント 1年
 
 #### Web・スマホサービス開発
-- 開発業務 6年(Go1.6〜1.14:3年6ヶ月/Node.js4〜12系/PHP5.3〜7/javascript/TypeScript)
+- 開発業務 7年(Go/Node.js/PHP/javascript/TypeScript)
 - 開発チームのマネジメント 1年
  
 #### その他のソフトウェア
