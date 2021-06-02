@@ -28,11 +28,11 @@
 ## プログラミングスキル
 ### バックエンド
 #### Go
-- version1.6〜1.15でのAPIサーバー、CLIツール実装の実務経験
+- version1.6〜1.16でのAPIサーバー、CLIツール実装の実務経験
 - TCPサーバー&Clientの実装実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
-- 実務で利用したフレームワークはecho,martini,go-chi,twirp
-- Microservices Architectureの開発
+- 実務で利用したフレームワークはecho,martini,go-chi,twirp,gRPC
+- Microservices Architectureを用いたアプリケーション開発
   - Orchestration、Choreographyどちらの経験もあり
   - Event Sourcing
   - CQRS
@@ -223,3 +223,4 @@ Webフロントエンド、バックエンド、開発環境の整備、デプ�
 DDDやClean Architectureなどの設計プラクティスを用いたアプリケーション設計の実務経験もあります。
 
 技術選定やアーキテクチャ設計から開発に携わる機会も多数ありました。
+
