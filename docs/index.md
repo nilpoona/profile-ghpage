@@ -59,7 +59,6 @@
 
 #### Javascript
 - jQuery,React.js,redux, Vue.jsを用いたWebフロントエンド実装の実務経験
-- Atomig Designに基づいたコンポーネント設計
 - jest,mochaでのユニットテスト
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - SPA実装の実務経験
