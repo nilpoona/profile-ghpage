@@ -28,7 +28,7 @@
 ## プログラミングスキル
 ### バックエンド
 #### Go
-- version1.6〜1.16でのAPIサーバー、CLIツール実装の実務経験
+- APIサーバー、CLIツール実装の実務経験
 - TCPサーバー&Clientの実装実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはecho,martini,go-chi,twirp,gRPC
@@ -40,7 +40,7 @@
 - Clean Architectureを用いたアプリケーションの実装
 
 #### Node.js
-- version4〜6系でのAPIサーバー、CLIツール実装の実務経験
+- vAPIサーバー、CLIツール実装の実務経験
 - フレームワーク選定やアプリケーションアーキテクチャの設計
 - 実務で利用したフレームワークはexpress,node-restify
 - lambda functionで動作するAPI実装の実務経験
