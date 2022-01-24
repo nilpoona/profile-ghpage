@@ -37,7 +37,6 @@
   - Event Sourcing
   - CQRS
   - DDD
-- Clean Architectureを用いたアプリケーションの実装
 
 #### Node.js
 - vAPIサーバー、CLIツール実装の実務経験
