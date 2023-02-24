@@ -51,8 +51,12 @@
 - wxPythonを利用したGUIアプリケーションの実装の実務経験
 
 #### PHP
-- version5.3でのWebアプリケーション実装の実務経験
+- Webアプリケーション実装の実務経験
 - 実務で利用したフレームワークはCakePHP1.3、Zend Framework 2.0
+
+#### Ruby
+- Ruby on Railsを用いたWeb APIの実装経験
+- バッチ処理の実装
 
 ### Webフロントエンド
 
@@ -90,7 +94,13 @@ https://www.npmjs.com/~gozu
   - カード発行，決済，個人間送金の舞台裏 Kyash開発ノウハウ大公開
 
 ## 職務経歴 
-### 株式会社Kyash(2018/7〜)
+## 株式会社スマートバンク
+- B/43のバックエンド開発
+- ActiveJob adapterの移行。
+  - 技術選定〜移行プラン策定〜移行まで
+- Push通知基盤のジョブキューミドルウェアリプレイス
+
+### 株式会社Kyash(2018/7〜2022/5月)
 - Visa,QUICPay+の決済システム開発
 - Microservices architectureの各種サービス実装
 - 新サービスの立ち上げ
