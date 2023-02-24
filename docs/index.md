@@ -4,13 +4,17 @@
 ## 職務経歴(概要)
 ### ソフトウェアエンジニア
 #### ソーシャルゲーム開発
-- 開発業務 3年(Python/PHP/javascript/C#)
-- 開発チームのマネジメント 1年
+- 開発業務(Python/PHP/javascript/C#)
+- 開発チームのマネジメント
 
 #### Web・スマホサービス開発
-- 開発業務 7年(Go/Node.js/PHP/javascript/TypeScript)
-- 開発チームのマネジメント 1年
- 
+- 開発業務(Go/Node.js/PHP/javascript/TypeScript)
+- 開発チームのマネジメント
+
+#### カード決済システム開発
+- VISA,CARDNETの決済システム開発
+- モバイル非接触決済システムの開発
+
 #### その他のソフトウェア
 - CLIツール(Go/Node.js/Python)
 - GUIアプリ(Python/Electron)
@@ -52,7 +56,6 @@
 
 #### PHP
 - Webアプリケーション実装の実務経験
-- 実務で利用したフレームワークはCakePHP1.3、Zend Framework 2.0
 
 #### Ruby
 - Ruby on Railsを用いたWeb APIの実装経験
