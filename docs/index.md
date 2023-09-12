@@ -89,6 +89,7 @@ https://www.npmjs.com/~gozu
 
 ## 発表資料/執筆
 ### 登壇資料
+- https://speakerdeck.com/nilpoona
 - http://www.slideshare.net/leverages_event/ss-42559237
 - http://www.slideshare.net/yutakahorikawa7/ss-60534281
 
@@ -99,9 +100,11 @@ https://www.npmjs.com/~gozu
 ## 職務経歴 
 ## 株式会社スマートバンク(2022/6月〜)
 - B/43のバックエンド開発
+- 新規機能開発
 - ActiveJob adapterの移行。
   - 技術選定〜移行プラン策定〜移行まで
 - Push通知基盤のジョブキューミドルウェアリプレイス
+- CircuitBreaker導入
 
 ### 株式会社Kyash(2018/7〜2022/5月)
 - Visa,QUICPay+の決済システム開発
