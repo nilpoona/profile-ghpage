@@ -8,7 +8,7 @@
 - 開発チームのマネジメント
 
 #### Web・スマホサービス開発
-- 開発業務(Go/Node.js/PHP/javascript/TypeScript)
+- 開発業務(Go/Node.js/PHP/javascript/TypeScript/Ruby)
 - 開発チームのマネジメント
 
 #### カード決済システム開発
