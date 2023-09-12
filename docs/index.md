@@ -5,11 +5,10 @@
 ### ソフトウェアエンジニア
 #### ソーシャルゲーム開発
 - 開発業務(Python/PHP/javascript/C#)
-- 開発チームのマネジメント
 
 #### Web・スマホサービス開発
 - 開発業務(Go/Node.js/PHP/javascript/TypeScript/Ruby)
-- 開発チームのマネジメント
+- 開発チームの進捗管理
 
 #### カード決済システム開発
 - VISA,CARDNETの決済システム開発
