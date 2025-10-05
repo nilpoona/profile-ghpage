@@ -59,6 +59,7 @@
 #### Ruby
 - Ruby on Railsを用いたWeb APIの実装経験
 - バッチ処理の実装
+- 非同期処理の実装
 
 ### Webフロントエンド
 
@@ -73,15 +74,12 @@
 - Elmを用いたWebフロントエンド実装の実務経験
 
 ### AWS
-- CloudFormationを利用したインフラ構築の自動化実務経験
+- terraform を利用したインフラ構築の自動化実務経験
 - サーバーレスアーキテクチャの実務経験 
 
 ## アカウント
 ### github
 https://github.com/nilpoona
-
-### gists
-https://gist.github.com/nilpoona
 
 ### npm
 https://www.npmjs.com/~gozu
@@ -96,10 +94,17 @@ https://www.npmjs.com/~gozu
 - [WEB+DB PRESS Vol.114](https://gihyo.jp/magazine/wdpress/archive/2020/vol114)
   - カード発行，決済，個人間送金の舞台裏 Kyash開発ノウハウ大公開
 
-## 職務経歴 
-## 株式会社スマートバンク(2022/6月〜)
+## 職務経歴
+## 株式会社カミナシ(2024/4月〜)
+- 新サービスのカミナシ従業員を開発
+  - 給与明細の電子配布
+  - チャットの開発
+  - LLM を使った翻訳機能の開発 
+
+
+## 株式会社スマートバンク(2022/6月〜2024/3月)
 - B/43のバックエンド開発
-- 新規機能開発
+- 前払式支払手段ライセンスの取得対応
 - ActiveJob adapterの移行。
   - 技術選定〜移行プラン策定〜移行まで
 - Push通知基盤のジョブキューミドルウェアリプレイス
